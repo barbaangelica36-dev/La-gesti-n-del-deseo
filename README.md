@@ -1,5 +1,5 @@
-# La-gesti-n-del-deseo
-Creación de nueva actualización y consumo de lectura
+# La-gestion-del-deseo
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
